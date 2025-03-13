@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
 
 body {
-    background-image: url('https://img.freepik.com/premium-vector/hand-drawn-seamless-pattern-with-cute-yellow-flowers-white-background_646146-9.jpg');
+    background-image: url('https://www.travelandleisure.com/thmb/jWIaZJ15hQ0CXdG-AEwtD1Xaz_Y=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/northeast-aegean-islands-samos-greece-GREEKISLES1216-eb7d5f258927481da453ceda6e9afcce.jpg');
     font-family: "Madimi One", sans-serif;
     margin: 0;
     padding: 20px;
@@ -15,10 +15,10 @@ header {
 }
 
 h1 {
-    color: #FFB800;
-    background-color: rgba(255, 255, 255, 0.8);
+    color: #C0D684;
+    background-color: #FF928B(255, 255, 255, 0.8);
     font-size: 48px;
-    text-shadow: 2px 2px #fff;
+    text-shadow: 2px 2px #B33C86;
 }
 
 h2 {
@@ -71,4 +71,7 @@ ul {
 p {
     color: #333;
     line-height: 1.6;
+}
+#myfamily{
+    background-color: aqua;
 }
